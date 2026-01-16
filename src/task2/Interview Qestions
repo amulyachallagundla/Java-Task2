@@ -1,0 +1,23 @@
+## Interview Questions & Answers
+
+### 1. Difference between Primitive and Non-Primitive Data Types?
+- Primitive data types store actual values directly (int, float, boolean).
+- Non-primitive data types store references to objects (String, Array, Class).
+
+### 2. What is Type Casting?
+- Type casting is converting one data type into another.
+- Example: converting double to int.
+
+### 3. Why is Scanner preferred over BufferedReader?
+- Scanner is easy to use and supports multiple data types directly.
+- BufferedReader is faster but more complex.
+
+### 4. What is the default value of variables?
+- Local variables → No default value
+- Instance variables → Default values (0, null, false)
+- Static variables → Default values
+
+### 5. Explain Scope of Variables.
+- Local variables → Accessible only inside the method
+- Instance variables → Accessible inside object
+- Static variables → Shared across all objects
